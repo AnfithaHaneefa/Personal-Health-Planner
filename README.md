@@ -30,7 +30,8 @@ Integrated Development Environment (IDE): Visual Studio Code
 
 🔧 How to Run
 1.Clone this repository:
-  git clone https://github.com/AnfithaHaneefa/bmi-health-planner.git
+  git clone https://github.com/AnfithaHaneefa/Personal-Health-Planner
+  
 
 
 2.Navigate to the Project Directory:
